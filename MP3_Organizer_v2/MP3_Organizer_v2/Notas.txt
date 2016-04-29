@@ -1,0 +1,6 @@
+// Display a help button on the form.
+			this->HelpButton = true;
+// Set the MaximizeBox to false to remove the maximize box.
+			this->MaximizeBox = false;
+// Set the MinimizeBox to false to remove the minimize box.
+			this->MinimizeBox = false;
